@@ -10,10 +10,13 @@
 - Алгоритм: Logistic Regression
 - Предобработка: удаление пунктуации, стоп-слов, лемматизация
 
-## Результат
-- Точность с Bag of Words: [укажи точность, например, 0.97]
-- Точность с TF-IDF: [укажи точность, например, 0.98]
+## Результаты
+- **Bag of Words**:  
+  - Точность: 97.8%  
+  - F1-score: 0.913  
+  - ROC-AUC: 0.920  
+- **TF-IDF**:  
+  - Точность: 95.1%  
+  - F1-score: 0.783  
+  - ROC-AUC: 0.828  
 - Ссылка на задачу: [https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
-
-## Файлы
-- `sms_spam_classification.ipynb` - код с предобработкой, векторизацией и обучением модели
