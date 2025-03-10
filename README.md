@@ -8,5 +8,5 @@
 - [GSM8K Search Application](GSM8K-Search/) - Поисковая система для математических задач с векторным поиском и GUI.
 
 ## Навыки
-- Python, Pandas, Scikit-learn, TensorFlow, Sentence Transformers, Qdrant, Flet
-- NLP, компьютерное зрение, регрессия, классификация, разработка приложений
+- Python, Pandas, Scikit-learn, TensorFlow, Sentence Transformers, Qdrant, Flet, C#
+- NLP, компьютерное зрение, регрессия, классификация, разработка приложений, разработка сайтов
